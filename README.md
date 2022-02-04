@@ -1,6 +1,6 @@
 ## Olá, tudo bom? Seja Bem Vinde!
 
-- 🔭 Hoje estou atuando como FullStack Jr.
+- 🔭 Atuando como FullStack Jr.
 - 😄 Pronomes: Ela/Dela
 
 ##
